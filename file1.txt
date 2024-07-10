@@ -1,1 +1,2 @@
-ECHO is on.
+I created file for git training
+I'm pushing into git server 
